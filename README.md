@@ -1,1 +1,5 @@
-Repo pour la quête "Git - Les Fondamentaux".
+# Git Remote
+
+Luke, I am your father!
+
+Nooooooooooooooooooooooooo!
